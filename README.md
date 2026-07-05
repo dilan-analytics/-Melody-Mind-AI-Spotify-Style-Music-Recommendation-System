@@ -1,6 +1,6 @@
 # 🎵 MelodyMind AI – Spotify Style Music Recommendation System
 
-![Banner](D:\My Projects\Projects\Music Recommondation System\Banner)
+![Banner](D:\My Projects\Projects\Music Recommondation System\Banner\banner.png)
 
 ---
 
